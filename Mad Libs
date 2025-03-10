@@ -1,0 +1,21 @@
+print("WELCOME TO THE MAD-LIB")
+print("Enter your answers tot he following questions")
+print("")
+
+country1 = input("Name any country>>")
+country2 = input("Name another country>>")
+country3 = input("Name another country>>")
+country4 = input("Name another country>>")
+TransportMode = input("Name an mode of transport>>")
+3wordName = input("Give a 3 word name>>")
+verb1 = input("Write a verb>>")
+verb2 = input("Write another verb>>")
+noun = input ("Write a noun")
+noun2 = input ("Write another noun")
+age = input ("Write an age")
+Food1 = input
+
+
+print("There once was a man who took to" ,country1, "and the name of the" ,TransportMode)
+print("Was" ,3wordName,",then the old man" ,verb1, "and decided to actually go to" ,country2, " but he ended up in" ,country3, "where he ate" ,Food1, "on toast and sung" ,Musician, "songs all night")
+print("His" ,age, "year old daughter came and" ,verb2, "him and took all of his" ,noun, "She then went to" ,country4, "and bet that" ,noun, "on a new" ,noun2)
