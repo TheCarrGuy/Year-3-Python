@@ -1,0 +1,16 @@
+name = input("Enter your name>>")
+print("hello", name)
+age = input("Enter your age>>")
+if age = >50
+input("Your old")
+else
+input("You've got a while left")
+favColour = input("Enter what is your favourite colour?>>")
+if input = red
+print("that is the colour of blood")
+if input = yellow
+print("that is the colour of the sun")
+else
+print("I don't like that colour")
+favSport = input("Enter your favourite sport>>")
+print("Nice, I like", favSport, "too"
