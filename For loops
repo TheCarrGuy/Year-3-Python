@@ -25,7 +25,9 @@ for i in rainbow:
   number = number + 1
   print ("Colour",number*2,"is", i)
 #challenge seven--------------------------------------------------------------------------------------
-for i in range(100, 0, -1):
+print("Write a digi")
+x = int(input())
+for i in range(x, 0, -1):
   print(i)
 #challenge eight--------------------------------------------------------------------------------------
 import random
